@@ -75,10 +75,9 @@ This repository contains a Python script for performing object detection on imag
 1. **Prepare Images**:
    - Place your images in the `../raw_data/media` directory (or update the `IMAGE_DIR` variable in the script).
 
-2. **Run the notebook file**:
+2. **Run the object_detection script**:
    ```bash
-   cd notebooks
-   python object_detection.ipynb
+   python object_detection.py
    ```
 
 3. **View Results**:
